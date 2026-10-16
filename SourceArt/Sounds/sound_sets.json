@@ -1,0 +1,700 @@
+{
+ "GS_45": {
+  "layers": [
+   {
+    "range": 240,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "gs45hd2",
+      "wav": "GS45hd2.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 205,
+      "volB": 255
+     }
+    ]
+   },
+   {
+    "range": 800,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "gs45tl3",
+      "wav": "GS45tl3.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.06,
+      "volA": 255,
+      "volB": 100
+     }
+    ]
+   }
+  ]
+ },
+ "GF_45_ST": {
+  "layers": [
+   {
+    "range": 25,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "45swto",
+      "wav": "45SwTo.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 120,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "GF_45_SF": {
+  "layers": [
+   {
+    "range": 25,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "45swfr",
+      "wav": "45SwFr.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 120,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "GF_BERETTA_RL": {
+  "layers": [
+   {
+    "range": 25,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "m9rl",
+      "wav": "m9RL.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 130,
+      "volB": 200
+     }
+    ]
+   }
+  ]
+ },
+ "DRY_PISTOL": {
+  "layers": [
+   {
+    "range": 25,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "dryfsocs",
+      "wav": "DRYFSOCS.WAV",
+      "basePitch": 1.2,
+      "pitchVar": 0.0,
+      "volA": 255,
+      "volB": 180
+     }
+    ]
+   }
+  ]
+ },
+ "GS_KNIFE": {
+  "layers": [
+   {
+    "range": 50,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "knife1",
+      "wav": "knife1.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.12,
+      "volA": 107,
+      "volB": 255
+     },
+     {
+      "key": "knife2",
+      "wav": "knife2.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.12,
+      "volA": 107,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "GF_KNIFE_ST": {
+  "layers": [
+   {
+    "range": 25,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "knfswto",
+      "wav": "knfSwTo.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 60,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "GF_KNIFE_SF": {
+  "layers": [
+   {
+    "range": 25,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "knfswfr",
+      "wav": "knfSwFr.wav",
+      "basePitch": 1.12,
+      "pitchVar": 0.0,
+      "volA": 60,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "IMP_KNIFE_FLESH": {
+  "layers": [
+   {
+    "range": 150,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "stab4",
+      "wav": "Stab4.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.1,
+      "volA": 240,
+      "volB": 255
+     },
+     {
+      "key": "stab1",
+      "wav": "Stab1.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.1,
+      "volA": 240,
+      "volB": 255
+     },
+     {
+      "key": "stab3",
+      "wav": "Stab3.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.1,
+      "volA": 240,
+      "volB": 255
+     },
+     {
+      "key": "stab6",
+      "wav": "Stab6.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.1,
+      "volA": 240,
+      "volB": 255
+     },
+     {
+      "key": "stab5",
+      "wav": "Stab5.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.1,
+      "volA": 240,
+      "volB": 255
+     },
+     {
+      "key": "stab2",
+      "wav": "Stab2.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.1,
+      "volA": 240,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "IMP_20MM_DIRT": {
+  "layers": [
+   {
+    "range": 200,
+    "priority": 271,
+    "variants": [
+     {
+      "key": "dirt24",
+      "wav": "DIRT24.WAV",
+      "basePitch": 1.0,
+      "pitchVar": 1.0,
+      "volA": 160,
+      "volB": 255
+     },
+     {
+      "key": "dirt26",
+      "wav": "DIRT26.WAV",
+      "basePitch": 1.0,
+      "pitchVar": 1.0,
+      "volA": 160,
+      "volB": 255
+     }
+    ]
+   },
+   {
+    "range": 220,
+    "priority": 271,
+    "variants": [
+     {
+      "key": null,
+      "wav": "NULL.WAV",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 0,
+      "volB": 0
+     },
+     {
+      "key": "rico19",
+      "wav": "RICO19.WAV",
+      "basePitch": 1.0,
+      "pitchVar": 0.4,
+      "volA": 110,
+      "volB": 255
+     },
+     {
+      "key": "rico20",
+      "wav": "RICO20.WAV",
+      "basePitch": 1.0,
+      "pitchVar": 0.4,
+      "volA": 110,
+      "volB": 255
+     },
+     {
+      "key": "rico21",
+      "wav": "RICO21.WAV",
+      "basePitch": 1.0,
+      "pitchVar": 0.4,
+      "volA": 110,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "GF_GNADE_ST": {
+  "layers": [
+   {
+    "range": 25,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "grnswto",
+      "wav": "grnSwTo.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 100,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "GF_GNADE_THROW": {
+  "layers": [
+   {
+    "range": 25,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "grnfrth1",
+      "wav": "grnFrTh1.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 120,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "GF_CNADE_THROW": {
+  "layers": [
+   {
+    "range": 25,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "grncnth3",
+      "wav": "grnCnTh3.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 120,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "DRY_CLAYSATCH": {
+  "layers": [
+   {
+    "range": 50,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "sad3",
+      "wav": "Sad3.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.04,
+      "volA": 215,
+      "volB": 255
+     }
+    ]
+   },
+   {
+    "range": 50,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "dryfsgun",
+      "wav": "DRYFSGUN.WAV",
+      "basePitch": 1.2,
+      "pitchVar": 0.0,
+      "volA": 215,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "EXPLO_AMMO_MED": {
+  "layers": [
+   {
+    "range": 500,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "xpmid1",
+      "wav": "xpmid1.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.4,
+      "volA": 220,
+      "volB": 210
+     }
+    ]
+   },
+   {
+    "range": 1000,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "explf2",
+      "wav": "explF2.wav",
+      "basePitch": 1.15,
+      "pitchVar": 0.5,
+      "volA": 255,
+      "volB": 127
+     },
+     {
+      "key": "xpboom1",
+      "wav": "xpboom1.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.5,
+      "volA": 255,
+      "volB": 127
+     },
+     {
+      "key": "xpflang1",
+      "wav": "xpflang1.wav",
+      "basePitch": 0.85,
+      "pitchVar": 0.4,
+      "volA": 255,
+      "volB": 127
+     }
+    ]
+   },
+   {
+    "range": 20,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "tone7k",
+      "wav": "TONE7K.WAV",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 40,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "EXPLO_FLASHBANG": {
+  "layers": [
+   {
+    "range": 200,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "xpfb92",
+      "wav": "xpFB92.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.5,
+      "volA": 255,
+      "volB": 245
+     }
+    ]
+   },
+   {
+    "range": 900,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "fbxpbs1",
+      "wav": "FBxpBS1.wav",
+      "basePitch": 0.9,
+      "pitchVar": 0.0,
+      "volA": 230,
+      "volB": 255
+     }
+    ]
+   },
+   {
+    "range": 20,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "tone27k",
+      "wav": "TONE27k.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 40,
+      "volB": 255
+     }
+    ]
+   },
+   {
+    "range": 500,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "xpmid1",
+      "wav": "xpmid1.wav",
+      "basePitch": 1.3,
+      "pitchVar": 0.0,
+      "volA": 235,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "EXPLO_SMOK_GREN": {
+  "layers": [
+   {
+    "range": 80,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "smgrn2",
+      "wav": "smGrn2.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 185,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "IMP_GREN_DIRT": {
+  "layers": [
+   {
+    "range": 100,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "grdrt1",
+      "wav": "GrDrt1.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.16,
+      "volA": 120,
+      "volB": 140
+     },
+     {
+      "key": "grdrt2",
+      "wav": "GrDrt2.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.16,
+      "volA": 180,
+      "volB": 120
+     },
+     {
+      "key": "grdrt3",
+      "wav": "GrDrt3.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.16,
+      "volA": 180,
+      "volB": 120
+     },
+     {
+      "key": "grdrt4",
+      "wav": "GrDrt4.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.16,
+      "volA": 180,
+      "volB": 120
+     },
+     {
+      "key": "grdrt5",
+      "wav": "GrDrt5.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.16,
+      "volA": 180,
+      "volB": 120
+     },
+     {
+      "key": "grdrt6",
+      "wav": "GrDrt6.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.16,
+      "volA": 180,
+      "volB": 120
+     },
+     {
+      "key": "grdrt7",
+      "wav": "GrDrt7.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.16,
+      "volA": 180,
+      "volB": 120
+     }
+    ]
+   }
+  ]
+ },
+ "GF_CAR15_ST": {
+  "layers": [
+   {
+    "range": 25,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "c15swto2",
+      "wav": "C15SwTo2.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 130,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "GF_CAR15_SF": {
+  "layers": [
+   {
+    "range": 25,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "c15swfr",
+      "wav": "c15SwFr.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 130,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ },
+ "GF_CAR15_RL": {
+  "layers": [
+   {
+    "range": 25,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "m203rl",
+      "wav": "m203rl.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 190,
+      "volB": 230
+     }
+    ]
+   }
+  ]
+ },
+ "DRY_OICW": {
+  "layers": [
+   {
+    "range": 25,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "dryfoicw",
+      "wav": "DRYFOICW.WAV",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 255,
+      "volB": 180
+     }
+    ]
+   }
+  ]
+ },
+ "GS_CAR151": {
+  "layers": [
+   {
+    "range": 30,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "c15n5",
+      "wav": "c15n5.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 120,
+      "volB": 255
+     }
+    ]
+   },
+   {
+    "range": 800,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "c15f3",
+      "wav": "c15f3.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 255,
+      "volB": 90
+     }
+    ]
+   },
+   {
+    "range": 200,
+    "priority": 15,
+    "variants": [
+     {
+      "key": "c15n1",
+      "wav": "c15n1.wav",
+      "basePitch": 1.0,
+      "pitchVar": 0.0,
+      "volA": 250,
+      "volB": 255
+     }
+    ]
+   }
+  ]
+ }
+}

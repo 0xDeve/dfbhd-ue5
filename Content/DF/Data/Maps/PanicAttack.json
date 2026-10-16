@@ -1,0 +1,6375 @@
+{
+ "version": 1,
+ "key": "PanicAttack",
+ "name": "Panic Attack A",
+ "source": {
+  "bms": "TDMM_01e.bms",
+  "terrain": "dvd1",
+  "trn": "DVD1.TRN"
+ },
+ "assetDir": "/Game/DF/Maps/PanicAttack",
+ "bounds": {
+  "min": [
+   -2552,
+   -1528
+  ],
+  "max": [
+   -1032,
+   -8
+  ]
+ },
+ "terrain": [
+  {
+   "mesh": "SM_PanicAttack_Terrain_0_0"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_0_1"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_0_2"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_0_3"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_0_4"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_0_5"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_1_0"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_1_1"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_1_2"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_1_3"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_1_4"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_1_5"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_2_0"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_2_1"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_2_2"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_2_3"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_2_4"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_2_5"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_3_0"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_3_1"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_3_2"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_3_3"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_3_4"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_3_5"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_4_0"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_4_1"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_4_2"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_4_3"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_4_4"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_4_5"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_5_0"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_5_1"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_5_2"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_5_3"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_5_4"
+  },
+  {
+   "mesh": "SM_PanicAttack_Terrain_5_5"
+  }
+ ],
+ "meshes": {
+  "SM_Armry01": {
+   "collide": true,
+   "bboxMin": [
+    -4.0227,
+    -2.8715,
+    -6.0177
+   ],
+   "bboxMax": [
+    3.4993,
+    2.1071,
+    7.0224
+   ]
+  },
+  "SM_Barl02": {
+   "collide": true,
+   "bboxMin": [
+    -0.5534,
+    -0.0453,
+    -0.5263
+   ],
+   "bboxMax": [
+    2.9646,
+    1.4365,
+    2.7239
+   ]
+  },
+  "SM_CTflag": {
+   "collide": true,
+   "bboxMin": [
+    -0.918,
+    -2.7359,
+    -0.7345
+   ],
+   "bboxMax": [
+    0.9181,
+    2.8869,
+    0.7345
+   ]
+  },
+  "SM_E50tripd": {
+   "collide": true,
+   "bboxMin": [
+    -0.5567,
+    -0.0056,
+    -2.0479
+   ],
+   "bboxMax": [
+    0.5592,
+    1.4936,
+    0.2476
+   ]
+  },
+  "SM_ETek1P": {
+   "collide": true,
+   "bboxMin": [
+    -0.9978,
+    -0.0457,
+    -1.9745
+   ],
+   "bboxMax": [
+    1.0451,
+    1.1797,
+    2.1002
+   ]
+  },
+  "SM_EWepBnkr": {
+   "collide": true,
+   "bboxMin": [
+    -2.7079,
+    -0.1453,
+    -2.4516
+   ],
+   "bboxMax": [
+    2.6973,
+    1.4058,
+    1.9599
+   ]
+  },
+  "SM_Farp1": {
+   "collide": true,
+   "bboxMin": [
+    -12.0,
+    0.0247,
+    -12.0
+   ],
+   "bboxMax": [
+    12.0,
+    0.0247,
+    12.0
+   ]
+  },
+  "SM_Fblkhawk": {
+   "collide": true,
+   "bboxMin": [
+    -12.007,
+    -3.52285,
+    -12.0065
+   ],
+   "bboxMax": [
+    12.0222,
+    3.70615,
+    16.885
+   ]
+  },
+  "SM_Fhum50": {
+   "collide": true,
+   "bboxMin": [
+    -1.2731,
+    0.0035,
+    -2.5426
+   ],
+   "bboxMax": [
+    1.2916,
+    2.1385,
+    2.4383
+   ]
+  },
+  "SM_GB01a": {
+   "collide": false,
+   "bboxMin": [
+    -1.4158,
+    -0.2646,
+    -1.3972
+   ],
+   "bboxMax": [
+    1.568,
+    1.8568,
+    1.4753
+   ]
+  },
+  "SM_GP01a": {
+   "collide": false,
+   "bboxMin": [
+    -4.1903,
+    -4.5169,
+    -4.5636
+   ],
+   "bboxMax": [
+    3.7799,
+    5.2096,
+    3.5624
+   ]
+  },
+  "SM_Gt01a": {
+   "collide": false,
+   "bboxMin": [
+    -3.4937,
+    -3.6607,
+    -3.334
+   ],
+   "bboxMax": [
+    3.8881,
+    4.9419,
+    3.0453
+   ]
+  },
+  "SM_Mbarrel1": {
+   "collide": true,
+   "bboxMin": [
+    -0.479562,
+    -0.00339246,
+    -0.506732
+   ],
+   "bboxMax": [
+    0.482461,
+    1.31536,
+    0.505283
+   ]
+  },
+  "SM_Mbarrel2": {
+   "collide": true,
+   "bboxMin": [
+    -2.57708,
+    -0.00388592,
+    -0.952833
+   ],
+   "bboxMax": [
+    1.53497,
+    2.64539,
+    1.09821
+   ]
+  },
+  "SM_MogBlk02": {
+   "collide": true,
+   "bboxMin": [
+    -32.6524,
+    -10.046,
+    -30.809
+   ],
+   "bboxMax": [
+    33.8039,
+    13.9174,
+    34.1887
+   ]
+  },
+  "SM_MogBlk03": {
+   "collide": true,
+   "bboxMin": [
+    -32.1882,
+    -10.0779,
+    -31.5063
+   ],
+   "bboxMax": [
+    33.8766,
+    13.2678,
+    34.4373
+   ]
+  },
+  "SM_MogBlk04": {
+   "collide": true,
+   "bboxMin": [
+    -31.6897,
+    -10.1248,
+    -32.0183
+   ],
+   "bboxMax": [
+    32.0401,
+    13.046,
+    31.9214
+   ]
+  },
+  "SM_MogFill2": {
+   "collide": true,
+   "bboxMin": [
+    -1.5692,
+    1.4013,
+    0.3453
+   ],
+   "bboxMax": [
+    1.566,
+    2.5831,
+    1.1262
+   ]
+  },
+  "SM_MogShd1": {
+   "collide": true,
+   "bboxMin": [
+    -1.8471,
+    -1.5364,
+    -1.0112
+   ],
+   "bboxMax": [
+    1.8492,
+    1.6678,
+    1.3531
+   ]
+  },
+  "SM_MogShd3": {
+   "collide": true,
+   "bboxMin": [
+    -1.8492,
+    -1.5364,
+    -1.0112
+   ],
+   "bboxMax": [
+    1.8471,
+    1.6678,
+    1.3531
+   ]
+  },
+  "SM_MwalA1": {
+   "collide": true,
+   "bboxMin": [
+    -0.5861,
+    -1.9619,
+    -4.0
+   ],
+   "bboxMax": [
+    0.9292,
+    2.0381,
+    4.0
+   ]
+  },
+  "SM_MwalA2": {
+   "collide": true,
+   "bboxMin": [
+    -0.5719,
+    -1.81755,
+    -2.0
+   ],
+   "bboxMax": [
+    0.8277,
+    2.18245,
+    2.0
+   ]
+  },
+  "SM_MwalA3": {
+   "collide": true,
+   "bboxMin": [
+    -0.5402,
+    -1.81755,
+    -0.5
+   ],
+   "bboxMax": [
+    0.5982,
+    2.18445,
+    0.5
+   ]
+  },
+  "SM_MwalA5": {
+   "collide": true,
+   "bboxMin": [
+    -3.0,
+    -2.0,
+    -3.0
+   ],
+   "bboxMax": [
+    1.0588,
+    2.033,
+    4.0
+   ]
+  },
+  "SM_Nbus1P": {
+   "collide": true,
+   "bboxMin": [
+    -1.86071,
+    0.003879,
+    -4.24015
+   ],
+   "bboxMax": [
+    1.76702,
+    4.78476,
+    3.88118
+   ]
+  },
+  "SM_Nbus2P": {
+   "collide": true,
+   "bboxMin": [
+    -0.971947,
+    -0.018814,
+    -2.4399
+   ],
+   "bboxMax": [
+    0.979836,
+    2.32472,
+    2.52645
+   ]
+  },
+  "SM_NTrk1hsk": {
+   "collide": true,
+   "bboxMin": [
+    -1.08265,
+    -0.0167,
+    -2.1734
+   ],
+   "bboxMax": [
+    1.16585,
+    2.0796,
+    4.1711
+   ]
+  },
+  "SM_rmofficA": {
+   "collide": true,
+   "bboxMin": [
+    -0.9914,
+    -1.0762,
+    -3.4632
+   ],
+   "bboxMax": [
+    1.9099,
+    0.6372,
+    0.5449
+   ]
+  },
+  "SM_Tire01": {
+   "collide": true,
+   "bboxMin": [
+    -2.0467,
+    -0.0246,
+    -0.5183
+   ],
+   "bboxMax": [
+    1.6341,
+    1.2807,
+    1.4039
+   ]
+  },
+  "SM_Tire02": {
+   "collide": true,
+   "bboxMin": [
+    -1.7233,
+    -0.0075,
+    -0.5183
+   ],
+   "bboxMax": [
+    2.0539,
+    1.2807,
+    1.4039
+   ]
+  },
+  "SM_VndCrt": {
+   "collide": true,
+   "bboxMin": [
+    -1.4125,
+    -0.0032,
+    -1.2063
+   ],
+   "bboxMax": [
+    1.4017,
+    3.0653,
+    1.2065
+   ]
+  },
+  "SM_WareHse1": {
+   "collide": true,
+   "bboxMin": [
+    -12.0328,
+    -4.4858,
+    -13.959
+   ],
+   "bboxMax": [
+    12.0516,
+    4.8686,
+    21.1314
+   ]
+  },
+  "SM_Wbush01": {
+   "collide": false,
+   "bboxMin": [
+    -1.3168,
+    -0.399,
+    -2.1805
+   ],
+   "bboxMax": [
+    1.0533,
+    3.0863,
+    2.2074
+   ]
+  },
+  "SM_Wbush02": {
+   "collide": false,
+   "bboxMin": [
+    -0.7471,
+    -0.2057,
+    -1.258
+   ],
+   "bboxMax": [
+    0.6151,
+    1.7974,
+    1.2637
+   ]
+  },
+  "SM_Wbush03": {
+   "collide": false,
+   "bboxMin": [
+    -0.4221,
+    -0.0906,
+    -0.6464
+   ],
+   "bboxMax": [
+    0.2717,
+    0.9297,
+    0.638
+   ]
+  },
+  "SM_wcrate1": {
+   "collide": true,
+   "bboxMin": [
+    -0.4213,
+    -0.0006001,
+    -0.42005
+   ],
+   "bboxMax": [
+    0.4215,
+    0.8452,
+    0.42275
+   ]
+  },
+  "SM_wcrate2": {
+   "collide": true,
+   "bboxMin": [
+    -1.0475,
+    0.00215006,
+    -0.56015
+   ],
+   "bboxMax": [
+    1.0788,
+    1.69745,
+    0.72395
+   ]
+  },
+  "SM_wcrate3": {
+   "collide": true,
+   "bboxMin": [
+    -2.135,
+    -0.0175502,
+    -1.2274
+   ],
+   "bboxMax": [
+    2.0936,
+    1.67695,
+    1.3093
+   ]
+  },
+  "SM_wcrate4": {
+   "collide": true,
+   "bboxMin": [
+    -1.6553,
+    -0.3131,
+    -1.6531
+   ],
+   "bboxMax": [
+    1.6553,
+    1.1582,
+    1.6491
+   ]
+  },
+  "SM_WdPlank": {
+   "collide": true,
+   "bboxMin": [
+    -2.5042,
+    0.0,
+    -0.2387
+   ],
+   "bboxMax": [
+    2.4958,
+    0.1,
+    0.2842
+   ]
+  },
+  "SM_WLad04": {
+   "collide": true,
+   "bboxMin": [
+    -0.473106,
+    -12.0266,
+    0.0172997
+   ],
+   "bboxMax": [
+    0.45829,
+    12.0022,
+    0.152699
+   ]
+  },
+  "SM_WpnCt1": {
+   "collide": true,
+   "bboxMin": [
+    -0.3207,
+    0.0,
+    -0.976
+   ],
+   "bboxMax": [
+    0.3207,
+    0.4998,
+    0.976
+   ]
+  },
+  "SM_WTrsh1": {
+   "collide": true,
+   "bboxMin": [
+    -1.9153,
+    -0.1014,
+    -1.9537
+   ],
+   "bboxMax": [
+    3.3957,
+    1.1214,
+    0.0151
+   ]
+  },
+  "SM_WTrsh2": {
+   "collide": true,
+   "bboxMin": [
+    -0.962475,
+    -0.050955,
+    -0.97684
+   ],
+   "bboxMax": [
+    1.70639,
+    0.563495,
+    0.00755
+   ]
+  },
+  "SM_WTrsh3": {
+   "collide": true,
+   "bboxMin": [
+    -1.91531,
+    -0.10141,
+    -1.95369
+   ],
+   "bboxMax": [
+    3.39571,
+    1.12136,
+    3.22346
+   ]
+  },
+  "SM_WTrsh4": {
+   "collide": true,
+   "bboxMin": [
+    -1.9153,
+    -0.1014,
+    -1.9537
+   ],
+   "bboxMax": [
+    0.0357,
+    0.7243,
+    0.0037
+   ]
+  }
+ },
+ "heightfield": {
+  "file": "PanicAttack_height.bin",
+  "size": 1024,
+  "sectorSize": 512,
+  "unit": 0.00390625,
+  "origin": [
+   -4,
+   -4
+  ],
+  "sectors": [
+   [
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    2,
+    2,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    2,
+    2,
+    4,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ],
+   [
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+   ]
+  ]
+ },
+ "spawns": {
+  "red": [
+   {
+    "pos": [
+     -1827.41187,
+     35.0,
+     -612.92871
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1817.94749,
+     35.0,
+     -599.70425
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1840.31897,
+     35.0,
+     -597.04138
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1837.51831,
+     35.0,
+     -614.4057
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1843.95996,
+     35.0,
+     -594.80084
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1822.60097,
+     35.0,
+     -599.58795
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1857.54333,
+     35.0,
+     -615.80609
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1846.48051,
+     35.0,
+     -615.80606
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1833.03723,
+     35.0,
+     -614.26569
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1834.6936,
+     35.0,
+     -595.70441
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1817.28127,
+     35.0,
+     -609.16563
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1817.0592,
+     35.0,
+     -603.64308
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1819.1205,
+     35.0,
+     -602.4646
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1819.31018,
+     35.0,
+     -599.14124
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1833.99817,
+     35.0,
+     -598.32697
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1837.63916,
+     35.0,
+     -596.08643
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1843.29558,
+     35.0,
+     -615.43082
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1848.73303,
+     35.0,
+     -614.09387
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1853.71729,
+     35.0,
+     -616.82715
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1831.89294,
+     35.0,
+     -613.06873
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1838.33459,
+     35.0,
+     -593.46387
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1822.79065,
+     35.0,
+     -596.26459
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1818.16956,
+     35.0,
+     -605.22681
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1851.91797,
+     35.0,
+     -614.46912
+    ],
+    "yaw": 0.0
+   },
+   {
+    "pos": [
+     -1840.85515,
+     35.0,
+     -614.46909
+    ],
+    "yaw": 0.0
+   }
+  ],
+  "blue": [
+   {
+    "pos": [
+     -1845.05322,
+     35.0,
+     -779.07654
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1849.08728,
+     35.0,
+     -775.66315
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1846.74585,
+     35.0,
+     -777.36365
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1851.20668,
+     35.0,
+     -789.91243
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1850.1593,
+     35.0,
+     -781.24249
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1851.01257,
+     35.0,
+     -777.2085
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1849.849,
+     35.0,
+     -793.80994
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1850.7682,
+     35.0,
+     -795.61307
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1849.15076,
+     35.0,
+     -798.85248
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1850.77991,
+     35.0,
+     -773.95026
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1840.79138,
+     35.0,
+     -779.21436
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1842.48401,
+     35.0,
+     -777.50146
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1843.97205,
+     35.0,
+     -776.73187
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1844.10146,
+     35.0,
+     -774.26205
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1841.48962,
+     35.0,
+     -774.17181
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1843.18225,
+     35.0,
+     -772.45892
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1843.02783,
+     35.0,
+     -769.34863
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1844.53993,
+     35.0,
+     -768.56142
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1850.08284,
+     35.0,
+     -771.48499
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1849.69458,
+     35.0,
+     -790.69965
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1848.46667,
+     35.0,
+     -782.95538
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1849.31995,
+     35.0,
+     -778.92139
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1848.15637,
+     35.0,
+     -795.52283
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1850.63879,
+     35.0,
+     -798.08289
+    ],
+    "yaw": 3.141593
+   },
+   {
+    "pos": [
+     -1847.45813,
+     35.0,
+     -800.56537
+    ],
+    "yaw": 3.141593
+   }
+  ],
+  "player": [
+   {
+    "pos": [
+     -1884.0,
+     35.0,
+     -664.0
+    ],
+    "yaw": 1.570796
+   }
+  ]
+ },
+ "objects": [
+  {
+   "mesh": "SM_Fblkhawk",
+   "pos": [
+    -1981.16028,
+    35.0,
+    -694.06329
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101269,
+   "kind": "vehicle",
+   "id": 529
+  },
+  {
+   "mesh": "SM_Fhum50",
+   "pos": [
+    -1949.15189,
+    35.0,
+    -705.87827
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101270,
+   "kind": "vehicle",
+   "id": 532
+  },
+  {
+   "mesh": "SM_Fhum50",
+   "pos": [
+    -1946.89105,
+    35.0,
+    -697.9729
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101270,
+   "kind": "vehicle",
+   "id": 533
+  },
+  {
+   "mesh": "SM_EWepBnkr",
+   "pos": [
+    -1923.31406,
+    35.0,
+    -785.11635
+   ],
+   "yaw": 2.617994,
+   "collide": true,
+   "item": 101880,
+   "kind": "object",
+   "id": 800
+  },
+  {
+   "mesh": "SM_EWepBnkr",
+   "pos": [
+    -1836.73413,
+    35.0,
+    -792.28186
+   ],
+   "yaw": 2.617994,
+   "collide": true,
+   "item": 101880,
+   "kind": "object",
+   "id": 600
+  },
+  {
+   "mesh": "SM_EWepBnkr",
+   "pos": [
+    -1849.72449,
+    40.14453,
+    -709.47736
+   ],
+   "yaw": 2.617994,
+   "collide": true,
+   "item": 101880,
+   "kind": "object",
+   "id": 602
+  },
+  {
+   "mesh": "SM_EWepBnkr",
+   "pos": [
+    -1861.07751,
+    45.09766,
+    -672.74109
+   ],
+   "yaw": 1.047198,
+   "collide": true,
+   "item": 101880,
+   "kind": "object",
+   "id": 603
+  },
+  {
+   "mesh": "SM_EWepBnkr",
+   "pos": [
+    -1920.94653,
+    35.0,
+    -701.54871
+   ],
+   "yaw": 4.18879,
+   "collide": true,
+   "item": 101880,
+   "kind": "object",
+   "id": 531
+  },
+  {
+   "mesh": "SM_EWepBnkr",
+   "pos": [
+    -1859.53101,
+    35.0,
+    -606.18927
+   ],
+   "yaw": 0.523599,
+   "collide": true,
+   "item": 101880,
+   "kind": "object",
+   "id": 597
+  },
+  {
+   "mesh": "SM_EWepBnkr",
+   "pos": [
+    -1838.55334,
+    55.20703,
+    -673.26581
+   ],
+   "yaw": 1.047198,
+   "collide": true,
+   "item": 101880,
+   "kind": "object",
+   "id": 598
+  },
+  {
+   "mesh": "SM_E50tripd",
+   "pos": [
+    -1930.17871,
+    38.52344,
+    -695.01562
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101881,
+   "kind": "object",
+   "id": 526
+  },
+  {
+   "mesh": "SM_CTflag",
+   "pos": [
+    -1931.30847,
+    37.1843,
+    -750.18311
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101884,
+   "kind": "object",
+   "id": 536
+  },
+  {
+   "mesh": "SM_CTflag",
+   "pos": [
+    -1916.42529,
+    37.1843,
+    -627.5097
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101884,
+   "kind": "object",
+   "id": 661
+  },
+  {
+   "mesh": "SM_CTflag",
+   "pos": [
+    -1908.15942,
+    37.1843,
+    -694.98749
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101884,
+   "kind": "object",
+   "id": 465
+  },
+  {
+   "mesh": "SM_MogBlk02",
+   "pos": [
+    -1834.64001,
+    45.0302,
+    -788.44482
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101086,
+   "kind": "building",
+   "id": 198
+  },
+  {
+   "mesh": "SM_MogBlk03",
+   "pos": [
+    -1882.41113,
+    45.0302,
+    -499.77808
+   ],
+   "yaw": -1.047198,
+   "collide": true,
+   "item": 101087,
+   "kind": "building",
+   "id": 654
+  },
+  {
+   "mesh": "SM_MogBlk03",
+   "pos": [
+    -1925.08699,
+    45.0302,
+    -764.61412
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101087,
+   "kind": "building",
+   "id": 791
+  },
+  {
+   "mesh": "SM_MogBlk03",
+   "pos": [
+    -1835.59979,
+    45.0302,
+    -603.69922
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101087,
+   "kind": "building",
+   "id": 249
+  },
+  {
+   "mesh": "SM_MogBlk03",
+   "pos": [
+    -1835.78056,
+    45.0302,
+    -696.96135
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101087,
+   "kind": "building",
+   "id": 277
+  },
+  {
+   "mesh": "SM_MogBlk04",
+   "pos": [
+    -1921.76074,
+    45.0302,
+    -627.09241
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101088,
+   "kind": "building",
+   "id": 660
+  },
+  {
+   "mesh": "SM_MogBlk04",
+   "pos": [
+    -1881.76184,
+    45.0302,
+    -882.24652
+   ],
+   "yaw": 2.617994,
+   "collide": true,
+   "item": 101088,
+   "kind": "building",
+   "id": 655
+  },
+  {
+   "mesh": "SM_MogBlk04",
+   "pos": [
+    -1753.90002,
+    45.0302,
+    -645.32538
+   ],
+   "yaw": 1.047198,
+   "collide": true,
+   "item": 101088,
+   "kind": "building",
+   "id": 656
+  },
+  {
+   "mesh": "SM_MogBlk04",
+   "pos": [
+    -1740.38062,
+    45.0302,
+    -745.90234
+   ],
+   "yaw": 4.415683,
+   "collide": true,
+   "item": 101088,
+   "kind": "building",
+   "id": 657
+  },
+  {
+   "mesh": "SM_WareHse1",
+   "pos": [
+    -1915.28595,
+    39.23579,
+    -695.31932
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101098,
+   "kind": "building",
+   "id": 393
+  },
+  {
+   "mesh": "SM_MogShd1",
+   "pos": [
+    -1836.78877,
+    36.47789,
+    -765.36446
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101108,
+   "kind": "building",
+   "id": 200
+  },
+  {
+   "mesh": "SM_MogShd1",
+   "pos": [
+    -1820.63686,
+    36.47789,
+    -625.47864
+   ],
+   "yaw": -3.141593,
+   "collide": true,
+   "item": 101108,
+   "kind": "building",
+   "id": 250
+  },
+  {
+   "mesh": "SM_MogShd1",
+   "pos": [
+    -1895.69624,
+    36.47789,
+    -752.72072
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101108,
+   "kind": "building",
+   "id": 792
+  },
+  {
+   "mesh": "SM_MogShd1",
+   "pos": [
+    -1900.38824,
+    36.47789,
+    -747.68723
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101108,
+   "kind": "building",
+   "id": 793
+  },
+  {
+   "mesh": "SM_MogShd1",
+   "pos": [
+    -1831.43765,
+    36.47789,
+    -629.21805
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101108,
+   "kind": "building",
+   "id": 251
+  },
+  {
+   "mesh": "SM_MogShd3",
+   "pos": [
+    -1806.41222,
+    36.47789,
+    -698.00116
+   ],
+   "yaw": 1.047198,
+   "collide": true,
+   "item": 101110,
+   "kind": "building",
+   "id": 278
+  },
+  {
+   "mesh": "SM_MogShd3",
+   "pos": [
+    -1898.44623,
+    36.47789,
+    -743.2207
+   ],
+   "yaw": -0.523599,
+   "collide": true,
+   "item": 101110,
+   "kind": "building",
+   "id": 794
+  },
+  {
+   "mesh": "SM_Armry01",
+   "pos": [
+    -1959.25005,
+    36.87149,
+    -737.0605
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101125,
+   "kind": "building",
+   "id": 795
+  },
+  {
+   "mesh": "SM_Armry01",
+   "pos": [
+    -1830.97781,
+    36.87149,
+    -762.25047
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101125,
+   "kind": "building",
+   "id": 813
+  },
+  {
+   "mesh": "SM_Armry01",
+   "pos": [
+    -1816.45862,
+    36.87149,
+    -587.06232
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101125,
+   "kind": "building",
+   "id": 814
+  },
+  {
+   "mesh": "SM_NTrk1hsk",
+   "pos": [
+    -1848.74713,
+    35.0,
+    -766.7999
+   ],
+   "yaw": 0.523599,
+   "collide": true,
+   "item": 101221,
+   "kind": "decoration",
+   "id": 203
+  },
+  {
+   "mesh": "SM_ETek1P",
+   "pos": [
+    -1863.53577,
+    35.0,
+    -802.16943
+   ],
+   "yaw": 1.047198,
+   "collide": true,
+   "item": 101255,
+   "kind": "decoration",
+   "id": 204
+  },
+  {
+   "mesh": "SM_Nbus1P",
+   "pos": [
+    -1813.29475,
+    35.0,
+    -629.56833
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101257,
+   "kind": "decoration",
+   "id": 252
+  },
+  {
+   "mesh": "SM_Nbus2P",
+   "pos": [
+    -1861.47548,
+    35.0,
+    -720.16119
+   ],
+   "yaw": 4.18879,
+   "collide": true,
+   "item": 101259,
+   "kind": "decoration",
+   "id": 279
+  },
+  {
+   "mesh": "SM_Tire01",
+   "pos": [
+    -1857.72548,
+    35.0,
+    -718.91119
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101458,
+   "kind": "decoration",
+   "id": 280
+  },
+  {
+   "mesh": "SM_Tire01",
+   "pos": [
+    -1801.87097,
+    35.0,
+    -763.62317
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101458,
+   "kind": "decoration",
+   "id": 206
+  },
+  {
+   "mesh": "SM_WdPlank",
+   "pos": [
+    -1906.48792,
+    40.92188,
+    -605.89899
+   ],
+   "yaw": -1.047198,
+   "collide": true,
+   "item": 101459,
+   "kind": "decoration",
+   "id": 809
+  },
+  {
+   "mesh": "SM_WdPlank",
+   "pos": [
+    -1838.35396,
+    45.0,
+    -585.56717
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101459,
+   "kind": "decoration",
+   "id": 253
+  },
+  {
+   "mesh": "SM_WdPlank",
+   "pos": [
+    -1904.14026,
+    40.81641,
+    -604.03961
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101459,
+   "kind": "decoration",
+   "id": 808
+  },
+  {
+   "mesh": "SM_Tire02",
+   "pos": [
+    -1856.97548,
+    35.0,
+    -713.16119
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101460,
+   "kind": "decoration",
+   "id": 281
+  },
+  {
+   "mesh": "SM_VndCrt",
+   "pos": [
+    -1829.25818,
+    35.0,
+    -774.05954
+   ],
+   "yaw": 3.665191,
+   "collide": true,
+   "item": 101472,
+   "kind": "decoration",
+   "id": 207
+  },
+  {
+   "mesh": "SM_wcrate4",
+   "pos": [
+    -1841.61986,
+    35.0,
+    -762.52699
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101481,
+   "kind": "decoration",
+   "id": 210
+  },
+  {
+   "mesh": "SM_wcrate4",
+   "pos": [
+    -1893.77193,
+    35.0,
+    -742.10393
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101481,
+   "kind": "decoration",
+   "id": 796
+  },
+  {
+   "mesh": "SM_wcrate4",
+   "pos": [
+    -1831.48291,
+    35.0,
+    -711.51022
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101481,
+   "kind": "decoration",
+   "id": 282
+  },
+  {
+   "mesh": "SM_Barl02",
+   "pos": [
+    -1834.86,
+    35.0,
+    -779.91306
+   ],
+   "yaw": 4.18879,
+   "collide": true,
+   "item": 101483,
+   "kind": "decoration",
+   "id": 212
+  },
+  {
+   "mesh": "SM_WTrsh3",
+   "pos": [
+    -1841.99295,
+    35.0,
+    -616.70587
+   ],
+   "yaw": -3.141593,
+   "collide": true,
+   "item": 101497,
+   "kind": "decoration",
+   "id": 259
+  },
+  {
+   "mesh": "SM_WTrsh3",
+   "pos": [
+    -1855.96631,
+    35.0,
+    -805.36002
+   ],
+   "yaw": -3.141593,
+   "collide": true,
+   "item": 101497,
+   "kind": "decoration",
+   "id": 214
+  },
+  {
+   "mesh": "SM_WTrsh3",
+   "pos": [
+    -1850.55357,
+    35.0,
+    -571.70345
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101497,
+   "kind": "decoration",
+   "id": 258
+  },
+  {
+   "mesh": "SM_rmofficA",
+   "pos": [
+    -1930.34746,
+    39.0,
+    -692.63812
+   ],
+   "yaw": 5.951573,
+   "collide": true,
+   "item": 101545,
+   "kind": "decoration",
+   "id": 527
+  },
+  {
+   "mesh": "SM_WTrsh1",
+   "pos": [
+    -1867.72751,
+    35.0,
+    -672.24692
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101556,
+   "kind": "decoration",
+   "id": 283
+  },
+  {
+   "mesh": "SM_WTrsh1",
+   "pos": [
+    -1889.83154,
+    35.0,
+    -610.01302
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101556,
+   "kind": "decoration",
+   "id": 171
+  },
+  {
+   "mesh": "SM_WTrsh1",
+   "pos": [
+    -1859.28955,
+    35.0,
+    -635.63995
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101556,
+   "kind": "decoration",
+   "id": 260
+  },
+  {
+   "mesh": "SM_WTrsh1",
+   "pos": [
+    -1805.78955,
+    35.0,
+    -587.85091
+   ],
+   "yaw": -3.141593,
+   "collide": true,
+   "item": 101556,
+   "kind": "decoration",
+   "id": 261
+  },
+  {
+   "mesh": "SM_WTrsh1",
+   "pos": [
+    -1860.33347,
+    35.0,
+    -613.40971
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101556,
+   "kind": "decoration",
+   "id": 262
+  },
+  {
+   "mesh": "SM_WTrsh2",
+   "pos": [
+    -1866.36757,
+    35.0,
+    -699.1879
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101557,
+   "kind": "decoration",
+   "id": 284
+  },
+  {
+   "mesh": "SM_WTrsh2",
+   "pos": [
+    -1850.55133,
+    35.0,
+    -581.22026
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101557,
+   "kind": "decoration",
+   "id": 263
+  },
+  {
+   "mesh": "SM_WTrsh2",
+   "pos": [
+    -1865.70996,
+    35.0,
+    -603.75444
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101557,
+   "kind": "decoration",
+   "id": 264
+  },
+  {
+   "mesh": "SM_WTrsh4",
+   "pos": [
+    -1810.44391,
+    35.0,
+    -623.82315
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101561,
+   "kind": "decoration",
+   "id": 265
+  },
+  {
+   "mesh": "SM_WTrsh4",
+   "pos": [
+    -1945.78993,
+    35.0,
+    -653.41785
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101561,
+   "kind": "decoration",
+   "id": 167
+  },
+  {
+   "mesh": "SM_WpnCt1",
+   "pos": [
+    -1906.18323,
+    39.77734,
+    -603.94586
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101565,
+   "kind": "decoration",
+   "id": 812
+  },
+  {
+   "mesh": "SM_WpnCt1",
+   "pos": [
+    -1906.08508,
+    40.3125,
+    -603.96985
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101565,
+   "kind": "decoration",
+   "id": 810
+  },
+  {
+   "mesh": "SM_WpnCt1",
+   "pos": [
+    -1901.48792,
+    40.3125,
+    -604.39899
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101565,
+   "kind": "decoration",
+   "id": 811
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1920.54037,
+    35.9619,
+    -709.53206
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 682
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1935.52084,
+    35.9619,
+    -709.48909
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 683
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1833.18491,
+    35.9619,
+    -659.00081
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 684
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1940.04001,
+    35.9619,
+    -698.99409
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 685
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1952.68857,
+    35.9619,
+    -707.84261
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 686
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1952.59872,
+    35.9619,
+    -666.82698
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 687
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1952.70029,
+    35.9619,
+    -722.84377
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 688
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1948.35995,
+    35.9619,
+    -726.33864
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 689
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1929.35995,
+    35.9619,
+    -726.35426
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 690
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1917.35995,
+    35.9619,
+    -726.35426
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 691
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1902.35995,
+    35.9619,
+    -726.36598
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 692
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1948.25497,
+    35.9619,
+    -663.35219
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 693
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1922.25497,
+    35.9619,
+    -663.37563
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 694
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1899.25497,
+    35.9619,
+    -663.39125
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 695
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1887.85886,
+    35.9619,
+    -730.7596
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 696
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1887.87109,
+    35.9619,
+    -749.75926
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 697
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1887.86908,
+    35.9619,
+    -757.75937
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 698
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1887.86908,
+    35.9619,
+    -765.75937
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 699
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1887.88365,
+    35.9619,
+    -780.75879
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 700
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1886.86755,
+    35.9619,
+    -613.89343
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 701
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1886.87766,
+    35.9619,
+    -636.89229
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 702
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1886.87766,
+    35.9619,
+    -644.89229
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 703
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1856.18491,
+    35.9619,
+    -658.98909
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 704
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1823.06845,
+    49.9619,
+    -782.38722
+   ],
+   "yaw": 4.712389,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 705
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1811.81381,
+    35.9619,
+    -638.48518
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 706
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1859.77475,
+    35.9619,
+    -638.53206
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 707
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1871.56381,
+    35.9619,
+    -707.47737
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 708
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1871.56381,
+    35.9619,
+    -715.47737
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 709
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1853.07944,
+    35.9619,
+    -734.82893
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 710
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1912.53122,
+    35.9619,
+    -709.54543
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 711
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1914.25131,
+    35.9619,
+    -663.37373
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 712
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1871.54416,
+    35.9619,
+    -669.47841
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 713
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1871.54355,
+    35.9619,
+    -677.48006
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 714
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1825.40906,
+    35.9619,
+    -751.46027
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 715
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1833.40906,
+    35.9619,
+    -751.46027
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 716
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1856.40906,
+    35.9619,
+    -751.44855
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 717
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1871.78403,
+    35.9619,
+    -792.90755
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 718
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1871.76987,
+    35.9619,
+    -808.94179
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 719
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1871.29819,
+    35.9619,
+    -561.95784
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 663
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1845.07944,
+    35.9619,
+    -734.82893
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 664
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1861.07944,
+    35.9619,
+    -734.82893
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 665
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1825.18491,
+    35.9619,
+    -659.00081
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 666
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1868.15903,
+    35.9619,
+    -832.99208
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 667
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1860.15903,
+    35.9619,
+    -832.99208
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 668
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1844.15903,
+    35.9619,
+    -832.99208
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 669
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1836.15903,
+    35.9619,
+    -832.99208
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 670
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1828.15903,
+    35.9619,
+    -832.99208
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 671
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1820.15903,
+    35.9619,
+    -832.99208
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 672
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1871.77231,
+    35.9619,
+    -777.91005
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 673
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1871.77866,
+    35.9619,
+    -761.9344
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 674
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1871.32285,
+    35.9619,
+    -583.95993
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 675
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1871.29819,
+    35.9619,
+    -610.02034
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 676
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1935.47006,
+    35.9619,
+    -680.493
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 677
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1920.46616,
+    35.9619,
+    -680.493
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 678
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1912.46616,
+    35.9619,
+    -680.493
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 679
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1897.47397,
+    35.9619,
+    -680.51253
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 680
+  },
+  {
+   "mesh": "SM_MwalA1",
+   "pos": [
+    -1897.556,
+    35.9619,
+    -709.56331
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101573,
+   "kind": "decoration",
+   "id": 681
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1871.56381,
+    35.81754,
+    -725.47737
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 784
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1887.87033,
+    35.81754,
+    -743.75935
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 785
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1862.41142,
+    35.81754,
+    -751.44807
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 786
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1850.40906,
+    35.81754,
+    -751.44855
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 787
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1846.40906,
+    35.81754,
+    -751.44855
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 788
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1887.88365,
+    35.81754,
+    -790.75879
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 789
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1887.88365,
+    35.81754,
+    -786.75879
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 790
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1886.86755,
+    35.81754,
+    -607.89343
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 765
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1889.35849,
+    35.81754,
+    -726.37581
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 766
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1871.56381,
+    35.81754,
+    -721.47737
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 767
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1940.04001,
+    35.81754,
+    -688.99409
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 768
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1940.04001,
+    35.81754,
+    -692.99409
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 769
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1886.87766,
+    35.81754,
+    -630.89229
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 770
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1886.87766,
+    35.81754,
+    -626.89229
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 771
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1886.87766,
+    35.81754,
+    -654.89229
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 772
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1886.87766,
+    35.81754,
+    -650.89229
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 773
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1889.25217,
+    35.81754,
+    -663.39418
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 774
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1893.25217,
+    35.81754,
+    -663.39418
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 775
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1862.18727,
+    35.81754,
+    -658.99252
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 776
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1850.18491,
+    35.81754,
+    -658.98909
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 777
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1923.35995,
+    35.81754,
+    -726.35426
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 778
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1846.18491,
+    35.81754,
+    -658.98909
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 779
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1935.25168,
+    35.81754,
+    -663.36055
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 780
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1942.35873,
+    35.81754,
+    -726.33711
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 781
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1871.54037,
+    35.81754,
+    -683.47737
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 782
+  },
+  {
+   "mesh": "SM_MwalA2",
+   "pos": [
+    -1871.55209,
+    35.81754,
+    -694.47737
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101574,
+   "kind": "decoration",
+   "id": 783
+  },
+  {
+   "mesh": "SM_MwalA3",
+   "pos": [
+    -1891.69626,
+    35.81754,
+    -776.2207
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101575,
+   "kind": "decoration",
+   "id": 798
+  },
+  {
+   "mesh": "SM_MwalA3",
+   "pos": [
+    -1892.69626,
+    35.81754,
+    -776.2207
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101575,
+   "kind": "decoration",
+   "id": 797
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1886.35596,
+    36.0,
+    -601.89459
+   ],
+   "yaw": -3.141593,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 722
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1818.18857,
+    36.0,
+    -658.50085
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 723
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1841.18666,
+    36.0,
+    -658.49147
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 724
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1868.18752,
+    36.0,
+    -658.48105
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 725
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1905.48035,
+    36.0,
+    -680.00343
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 726
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1928.46902,
+    36.0,
+    -680.00061
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 727
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1940.5477,
+    36.0,
+    -684.00075
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 728
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1940.55736,
+    36.0,
+    -707.00168
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 729
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1952.18573,
+    36.0,
+    -714.84215
+   ],
+   "yaw": -3.141593,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 730
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1937.35823,
+    36.0,
+    -725.84155
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 731
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1910.35892,
+    36.0,
+    -725.85597
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 732
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1895.36047,
+    36.0,
+    -725.86765
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 733
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1893.56406,
+    36.0,
+    -705.01759
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 734
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1893.48087,
+    36.0,
+    -684.02187
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 735
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1904.53036,
+    36.0,
+    -710.05659
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 736
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1940.25412,
+    36.0,
+    -663.86397
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 737
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1927.54318,
+    36.0,
+    -710.03206
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 738
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1952.09885,
+    36.0,
+    -673.82808
+   ],
+   "yaw": -3.141593,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 739
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1886.34241,
+    36.0,
+    -594.89172
+   ],
+   "yaw": -3.141593,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 740
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1871.82541,
+    36.0,
+    -576.96059
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 741
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1871.79843,
+    36.0,
+    -603.02388
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 742
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1871.63474,
+    36.0,
+    -636.02272
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 743
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1871.81589,
+    36.0,
+    -618.02016
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 744
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1929.25241,
+    36.0,
+    -663.87245
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 745
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1906.25412,
+    36.0,
+    -663.89088
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 746
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1872.05453,
+    36.0,
+    -689.47939
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 747
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1952.46689,
+    36.0,
+    -686.8177
+   ],
+   "yaw": -3.141593,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 748
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1952.48154,
+    36.0,
+    -693.8185
+   ],
+   "yaw": -3.141593,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 749
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1887.35788,
+    36.0,
+    -737.75996
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 750
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1887.36972,
+    36.0,
+    -772.76186
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 751
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1866.77707,
+    36.0,
+    -639.03261
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 752
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1835.15756,
+    36.0,
+    -639.20229
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 753
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1818.81601,
+    36.0,
+    -638.98799
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 754
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1868.08115,
+    36.0,
+    -735.3304
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 755
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1872.07687,
+    36.0,
+    -731.48073
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 756
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1872.06621,
+    36.0,
+    -700.47992
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 757
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1818.40881,
+    36.0,
+    -750.96031
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 758
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1841.41081,
+    36.0,
+    -750.94702
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 759
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1868.40776,
+    36.0,
+    -750.9366
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 760
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1872.28183,
+    36.0,
+    -754.93544
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 761
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1872.285,
+    36.0,
+    -785.90895
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 762
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1872.04205,
+    36.0,
+    -662.47989
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 763
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1886.37669,
+    36.0,
+    -659.89514
+   ],
+   "yaw": -3.141593,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 764
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1871.81198,
+    36.0,
+    -569.95943
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 720
+  },
+  {
+   "mesh": "SM_MwalA5",
+   "pos": [
+    -1886.36522,
+    36.0,
+    -620.89206
+   ],
+   "yaw": -3.141593,
+   "collide": true,
+   "item": 101577,
+   "kind": "decoration",
+   "id": 721
+  },
+  {
+   "mesh": "SM_MogFill2",
+   "pos": [
+    -1836.82225,
+    35.0,
+    -764.80647
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 101609,
+   "kind": "decoration",
+   "id": 217
+  },
+  {
+   "mesh": "SM_MogFill2",
+   "pos": [
+    -1900.94624,
+    35.0,
+    -747.7207
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101609,
+   "kind": "decoration",
+   "id": 799
+  },
+  {
+   "mesh": "SM_MogFill2",
+   "pos": [
+    -1831.99562,
+    35.0,
+    -629.25153
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 101609,
+   "kind": "decoration",
+   "id": 266
+  },
+  {
+   "mesh": "SM_GB01a",
+   "pos": [
+    -1824.37576,
+    35.0,
+    -633.43231
+   ],
+   "yaw": 0.0,
+   "collide": false,
+   "item": 102091,
+   "kind": "foliage",
+   "id": 268
+  },
+  {
+   "mesh": "SM_GB01a",
+   "pos": [
+    -1834.36438,
+    35.0,
+    -776.11031
+   ],
+   "yaw": 1.570796,
+   "collide": false,
+   "item": 102091,
+   "kind": "foliage",
+   "id": 219
+  },
+  {
+   "mesh": "SM_GB01a",
+   "pos": [
+    -1845.9902,
+    35.0,
+    -773.7851
+   ],
+   "yaw": 1.570796,
+   "collide": false,
+   "item": 102091,
+   "kind": "foliage",
+   "id": 220
+  },
+  {
+   "mesh": "SM_GP01a",
+   "pos": [
+    -1842.77455,
+    37.976,
+    -825.49503
+   ],
+   "yaw": 4.18879,
+   "collide": false,
+   "item": 102093,
+   "kind": "foliage",
+   "id": 221
+  },
+  {
+   "mesh": "SM_GP01a",
+   "pos": [
+    -1831.91187,
+    39.46819,
+    -777.71735
+   ],
+   "yaw": 2.094395,
+   "collide": false,
+   "item": 102093,
+   "kind": "foliage",
+   "id": 222
+  },
+  {
+   "mesh": "SM_Gt01a",
+   "pos": [
+    -1898.94624,
+    38.61069,
+    -750.9707
+   ],
+   "yaw": 0.0,
+   "collide": false,
+   "item": 102095,
+   "kind": "foliage",
+   "id": 801
+  },
+  {
+   "mesh": "SM_Gt01a",
+   "pos": [
+    -1864.0,
+    38.61069,
+    -663.0
+   ],
+   "yaw": 0.0,
+   "collide": false,
+   "item": 102095,
+   "kind": "foliage",
+   "id": 438
+  },
+  {
+   "mesh": "SM_Gt01a",
+   "pos": [
+    -1864.0,
+    38.61069,
+    -712.0
+   ],
+   "yaw": 0.0,
+   "collide": false,
+   "item": 102095,
+   "kind": "foliage",
+   "id": 439
+  },
+  {
+   "mesh": "SM_Gt01a",
+   "pos": [
+    -1840.0,
+    38.61069,
+    -768.0
+   ],
+   "yaw": 0.0,
+   "collide": false,
+   "item": 102095,
+   "kind": "foliage",
+   "id": 440
+  },
+  {
+   "mesh": "SM_Gt01a",
+   "pos": [
+    -1856.0,
+    38.61069,
+    -568.0
+   ],
+   "yaw": 0.0,
+   "collide": false,
+   "item": 102095,
+   "kind": "foliage",
+   "id": 441
+  },
+  {
+   "mesh": "SM_Gt01a",
+   "pos": [
+    -1823.03896,
+    38.61069,
+    -632.24286
+   ],
+   "yaw": 0.0,
+   "collide": false,
+   "item": 102095,
+   "kind": "foliage",
+   "id": 269
+  },
+  {
+   "mesh": "SM_Gt01a",
+   "pos": [
+    -1836.22536,
+    38.61069,
+    -573.00374
+   ],
+   "yaw": -1.570796,
+   "collide": false,
+   "item": 102095,
+   "kind": "foliage",
+   "id": 270
+  },
+  {
+   "mesh": "SM_Wbush01",
+   "pos": [
+    -1864.57399,
+    35.0,
+    -581.36366
+   ],
+   "yaw": -3.141593,
+   "collide": false,
+   "item": 102097,
+   "kind": "foliage",
+   "id": 271
+  },
+  {
+   "mesh": "SM_Wbush01",
+   "pos": [
+    -1869.32895,
+    35.0,
+    -760.4606
+   ],
+   "yaw": -3.141593,
+   "collide": false,
+   "item": 102097,
+   "kind": "foliage",
+   "id": 223
+  },
+  {
+   "mesh": "SM_Wbush01",
+   "pos": [
+    -1941.40234,
+    35.0,
+    -658.62537
+   ],
+   "yaw": 1.570796,
+   "collide": false,
+   "item": 102097,
+   "kind": "foliage",
+   "id": 168
+  },
+  {
+   "mesh": "SM_Wbush02",
+   "pos": [
+    -1868.78961,
+    35.0,
+    -763.81116
+   ],
+   "yaw": -3.141593,
+   "collide": false,
+   "item": 102098,
+   "kind": "foliage",
+   "id": 224
+  },
+  {
+   "mesh": "SM_Wbush02",
+   "pos": [
+    -1864.03462,
+    35.0,
+    -584.70641
+   ],
+   "yaw": -3.141593,
+   "collide": false,
+   "item": 102098,
+   "kind": "foliage",
+   "id": 272
+  },
+  {
+   "mesh": "SM_Wbush03",
+   "pos": [
+    -1868.14296,
+    35.0,
+    -677.19122
+   ],
+   "yaw": -3.141593,
+   "collide": false,
+   "item": 102099,
+   "kind": "foliage",
+   "id": 285
+  },
+  {
+   "mesh": "SM_Wbush03",
+   "pos": [
+    -1938.47992,
+    35.0,
+    -657.79358
+   ],
+   "yaw": 1.570796,
+   "collide": false,
+   "item": 102099,
+   "kind": "foliage",
+   "id": 169
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1845.77553,
+    27.99925,
+    -717.16034
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 288
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1829.52881,
+    44.51488,
+    -681.43536
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 601
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1866.99072,
+    39.10081,
+    -755.35266
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 227
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1901.35423,
+    37.99925,
+    -770.99817
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 802
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1915.8486,
+    44.51488,
+    -776.54213
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 803
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1837.20764,
+    44.51488,
+    -601.87152
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 604
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1920.89014,
+    43.03516,
+    -615.28876
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 658
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1840.41516,
+    43.24144,
+    -781.07642
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 605
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1920.77942,
+    28.91722,
+    -629.16968
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 606
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1912.46985,
+    32.91722,
+    -630.30841
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 607
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1807.8479,
+    36.0305,
+    -783.97253
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 609
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1908.15999,
+    32.9375,
+    -613.82292
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 181
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1900.0976,
+    28.66722,
+    -615.15688
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 172
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1918.20056,
+    28.2805,
+    -656.42027
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 170
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1827.06659,
+    32.98363,
+    -578.15631
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 275
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1852.26367,
+    32.99535,
+    -798.35855
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 226
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1805.69307,
+    27.98828,
+    -718.4364
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 286
+  },
+  {
+   "mesh": "SM_WLad04",
+   "pos": [
+    -1851.17337,
+    33.0,
+    -722.09944
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 102111,
+   "kind": "decoration",
+   "id": 287
+  },
+  {
+   "mesh": "SM_Mbarrel1",
+   "pos": [
+    -1846.77696,
+    35.0,
+    -767.1346
+   ],
+   "yaw": 1.047198,
+   "collide": true,
+   "item": 104300,
+   "kind": "decoration",
+   "id": 230
+  },
+  {
+   "mesh": "SM_Mbarrel1",
+   "pos": [
+    -1801.49298,
+    35.0,
+    -765.5491
+   ],
+   "yaw": 5.759587,
+   "collide": true,
+   "item": 104300,
+   "kind": "decoration",
+   "id": 228
+  },
+  {
+   "mesh": "SM_Mbarrel1",
+   "pos": [
+    -1802.89221,
+    35.0,
+    -761.15152
+   ],
+   "yaw": 5.759587,
+   "collide": true,
+   "item": 104300,
+   "kind": "decoration",
+   "id": 229
+  },
+  {
+   "mesh": "SM_Mbarrel2",
+   "pos": [
+    -1891.67139,
+    35.0,
+    -623.01302
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 104301,
+   "kind": "decoration",
+   "id": 173
+  },
+  {
+   "mesh": "SM_Mbarrel2",
+   "pos": [
+    -1847.50923,
+    35.0,
+    -770.71387
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 104301,
+   "kind": "decoration",
+   "id": 233
+  },
+  {
+   "mesh": "SM_Mbarrel2",
+   "pos": [
+    -1894.69284,
+    35.0,
+    -746.29297
+   ],
+   "yaw": -0.523599,
+   "collide": true,
+   "item": 104301,
+   "kind": "decoration",
+   "id": 804
+  },
+  {
+   "mesh": "SM_Mbarrel2",
+   "pos": [
+    -1936.0,
+    35.0,
+    -615.0
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 104301,
+   "kind": "decoration",
+   "id": 182
+  },
+  {
+   "mesh": "SM_wcrate1",
+   "pos": [
+    -1893.28215,
+    36.16797,
+    -742.62102
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 104302,
+   "kind": "decoration",
+   "id": 806
+  },
+  {
+   "mesh": "SM_wcrate1",
+   "pos": [
+    -1851.2802,
+    35.0,
+    -787.89792
+   ],
+   "yaw": 2.617994,
+   "collide": true,
+   "item": 104302,
+   "kind": "decoration",
+   "id": 242
+  },
+  {
+   "mesh": "SM_wcrate1",
+   "pos": [
+    -1832.0,
+    36.16797,
+    -712.0
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 104302,
+   "kind": "decoration",
+   "id": 289
+  },
+  {
+   "mesh": "SM_wcrate1",
+   "pos": [
+    -1842.16434,
+    36.16797,
+    -762.04205
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 104302,
+   "kind": "decoration",
+   "id": 238
+  },
+  {
+   "mesh": "SM_wcrate1",
+   "pos": [
+    -1842.15598,
+    36.16797,
+    -763.01305
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 104302,
+   "kind": "decoration",
+   "id": 239
+  },
+  {
+   "mesh": "SM_wcrate1",
+   "pos": [
+    -1847.28296,
+    35.0,
+    -793.30508
+   ],
+   "yaw": 1.047198,
+   "collide": true,
+   "item": 104302,
+   "kind": "decoration",
+   "id": 241
+  },
+  {
+   "mesh": "SM_wcrate1",
+   "pos": [
+    -1892.83099,
+    35.0,
+    -745.72624
+   ],
+   "yaw": -0.523599,
+   "collide": true,
+   "item": 104302,
+   "kind": "decoration",
+   "id": 805
+  },
+  {
+   "mesh": "SM_wcrate2",
+   "pos": [
+    -1901.34438,
+    35.0,
+    -616.20721
+   ],
+   "yaw": 1.797689,
+   "collide": true,
+   "item": 104303,
+   "kind": "decoration",
+   "id": 174
+  },
+  {
+   "mesh": "SM_wcrate2",
+   "pos": [
+    -1849.22595,
+    35.0,
+    -792.70978
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 104303,
+   "kind": "decoration",
+   "id": 243
+  },
+  {
+   "mesh": "SM_wcrate2",
+   "pos": [
+    -1893.4263,
+    35.0,
+    -747.66924
+   ],
+   "yaw": 0.0,
+   "collide": true,
+   "item": 104303,
+   "kind": "decoration",
+   "id": 807
+  },
+  {
+   "mesh": "SM_wcrate2",
+   "pos": [
+    -1850.28023,
+    35.0,
+    -785.89792
+   ],
+   "yaw": 3.141593,
+   "collide": true,
+   "item": 104303,
+   "kind": "decoration",
+   "id": 245
+  },
+  {
+   "mesh": "SM_wcrate3",
+   "pos": [
+    -1847.22791,
+    35.0,
+    -788.61978
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 104304,
+   "kind": "decoration",
+   "id": 248
+  },
+  {
+   "mesh": "SM_wcrate3",
+   "pos": [
+    -1895.97545,
+    35.0,
+    -616.89468
+   ],
+   "yaw": -3.141593,
+   "collide": true,
+   "item": 104304,
+   "kind": "decoration",
+   "id": 175
+  },
+  {
+   "mesh": "SM_wcrate3",
+   "pos": [
+    -1851.69456,
+    35.0,
+    -761.21516
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 104304,
+   "kind": "decoration",
+   "id": 246
+  },
+  {
+   "mesh": "SM_wcrate3",
+   "pos": [
+    -1802.37097,
+    35.0,
+    -768.42184
+   ],
+   "yaw": -1.570796,
+   "collide": true,
+   "item": 104304,
+   "kind": "decoration",
+   "id": 247
+  },
+  {
+   "mesh": "SM_Farp1",
+   "pos": [
+    -1981.93628,
+    35.0,
+    -694.06329
+   ],
+   "yaw": 1.570796,
+   "collide": true,
+   "item": 104356,
+   "kind": "decoration",
+   "id": 530
+  }
+ ],
+ "markers": [
+  {
+   "item": 102043,
+   "name": "Map Centerpoint, helps align commander map grid",
+   "pos": [
+    -2020.80396,
+    35.0,
+    -524.00372
+   ]
+  },
+  {
+   "item": 106001,
+   "name": "start, player",
+   "pos": [
+    -1884.0,
+    35.0,
+    -664.0
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1845.05322,
+    35.0,
+    -779.07654
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1849.08728,
+    35.0,
+    -775.66315
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1846.74585,
+    35.0,
+    -777.36365
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1851.20668,
+    35.0,
+    -789.91243
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1850.1593,
+    35.0,
+    -781.24249
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1851.01257,
+    35.0,
+    -777.2085
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1849.849,
+    35.0,
+    -793.80994
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1850.7682,
+    35.0,
+    -795.61307
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1849.15076,
+    35.0,
+    -798.85248
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1850.77991,
+    35.0,
+    -773.95026
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1840.79138,
+    35.0,
+    -779.21436
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1842.48401,
+    35.0,
+    -777.50146
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1843.97205,
+    35.0,
+    -776.73187
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1844.10146,
+    35.0,
+    -774.26205
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1841.48962,
+    35.0,
+    -774.17181
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1843.18225,
+    35.0,
+    -772.45892
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1843.02783,
+    35.0,
+    -769.34863
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1844.53993,
+    35.0,
+    -768.56142
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1850.08284,
+    35.0,
+    -771.48499
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1849.69458,
+    35.0,
+    -790.69965
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1848.46667,
+    35.0,
+    -782.95538
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1849.31995,
+    35.0,
+    -778.92139
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1848.15637,
+    35.0,
+    -795.52283
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1850.63879,
+    35.0,
+    -798.08289
+   ]
+  },
+  {
+   "item": 106003,
+   "name": "start, Blue Team",
+   "pos": [
+    -1847.45813,
+    35.0,
+    -800.56537
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1827.41187,
+    35.0,
+    -612.92871
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1817.94749,
+    35.0,
+    -599.70425
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1840.31897,
+    35.0,
+    -597.04138
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1837.51831,
+    35.0,
+    -614.4057
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1843.95996,
+    35.0,
+    -594.80084
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1822.60097,
+    35.0,
+    -599.58795
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1857.54333,
+    35.0,
+    -615.80609
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1846.48051,
+    35.0,
+    -615.80606
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1833.03723,
+    35.0,
+    -614.26569
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1834.6936,
+    35.0,
+    -595.70441
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1817.28127,
+    35.0,
+    -609.16563
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1817.0592,
+    35.0,
+    -603.64308
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1819.1205,
+    35.0,
+    -602.4646
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1819.31018,
+    35.0,
+    -599.14124
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1833.99817,
+    35.0,
+    -598.32697
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1837.63916,
+    35.0,
+    -596.08643
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1843.29558,
+    35.0,
+    -615.43082
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1848.73303,
+    35.0,
+    -614.09387
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1853.71729,
+    35.0,
+    -616.82715
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1831.89294,
+    35.0,
+    -613.06873
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1838.33459,
+    35.0,
+    -593.46387
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1822.79065,
+    35.0,
+    -596.26459
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1818.16956,
+    35.0,
+    -605.22681
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1851.91797,
+    35.0,
+    -614.46912
+   ]
+  },
+  {
+   "item": 106004,
+   "name": "start, Red Team",
+   "pos": [
+    -1840.85515,
+    35.0,
+    -614.46909
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1880.52209,
+    60.0,
+    -715.86493
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1878.35217,
+    60.0,
+    -693.72784
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1944.87268,
+    35.0,
+    -717.39154
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1925.72046,
+    35.0,
+    -670.84386
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1987.4906,
+    60.0,
+    -698.67151
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1882.76611,
+    35.0,
+    -719.54803
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1945.69568,
+    35.0,
+    -671.22424
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1982.86829,
+    60.0,
+    -796.32025
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1911.40503,
+    60.0,
+    -719.47021
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1880.45508,
+    60.0,
+    -817.18604
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1946.52991,
+    35.0,
+    -686.67804
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1879.31567,
+    35.0,
+    -649.67804
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1982.64978,
+    60.0,
+    -693.5202
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1878.8844,
+    35.0,
+    -550.04858
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1880.15247,
+    60.0,
+    -717.88208
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1792.19385,
+    35.0,
+    -552.63641
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1969.38928,
+    60.0,
+    -717.20966
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1788.31226,
+    35.0,
+    -647.95288
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1956.51828,
+    60.0,
+    -809.68988
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1879.43408,
+    35.0,
+    -648.81543
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1899.04082,
+    60.0,
+    -827.56783
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1880.60962,
+    35.0,
+    -692.80768
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1880.15912,
+    60.0,
+    -788.13228
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1881.04089,
+    35.0,
+    -846.7804
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1879.74695,
+    60.0,
+    -647.95241
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1787.01831,
+    35.0,
+    -847.21173
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1880.17827,
+    60.0,
+    -563.41766
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1789.1748,
+    35.0,
+    -744.99451
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1975.06427,
+    60.0,
+    -594.62405
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1878.8844,
+    35.0,
+    -743.70062
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1968.51831,
+    60.0,
+    -666.51741
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1881.90344,
+    35.0,
+    -672.53674
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1885.3539,
+    60.0,
+    -667.36089
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1898.98451,
+    35.0,
+    -671.84384
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1885.41298,
+    60.0,
+    -719.16757
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1945.91821,
+    60.0,
+    -719.73071
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1946.06958,
+    60.0,
+    -672.461
+   ]
+  },
+  {
+   "item": 106005,
+   "name": "waypoint",
+   "pos": [
+    -1881.15247,
+    60.0,
+    -672.20044
+   ]
+  },
+  {
+   "item": 106102,
+   "name": "snd: desert wind-gusts, with lp3",
+   "pos": [
+    -1856.90283,
+    35.0,
+    -917.22552
+   ]
+  },
+  {
+   "item": 106102,
+   "name": "snd: desert wind-gusts, with lp3",
+   "pos": [
+    -1751.96887,
+    35.0,
+    -794.70154
+   ]
+  },
+  {
+   "item": 106102,
+   "name": "snd: desert wind-gusts, with lp3",
+   "pos": [
+    -1755.60828,
+    35.0,
+    -707.96423
+   ]
+  },
+  {
+   "item": 106102,
+   "name": "snd: desert wind-gusts, with lp3",
+   "pos": [
+    -1941.36157,
+    35.0,
+    -611.67175
+   ]
+  },
+  {
+   "item": 106102,
+   "name": "snd: desert wind-gusts, with lp3",
+   "pos": [
+    -1973.99451,
+    35.0,
+    -644.64819
+   ]
+  },
+  {
+   "item": 106102,
+   "name": "snd: desert wind-gusts, with lp3",
+   "pos": [
+    -1795.80212,
+    35.0,
+    -636.76202
+   ]
+  },
+  {
+   "item": 106102,
+   "name": "snd: desert wind-gusts, with lp3",
+   "pos": [
+    -1799.28015,
+    35.0,
+    -740.11163
+   ]
+  },
+  {
+   "item": 106102,
+   "name": "snd: desert wind-gusts, with lp3",
+   "pos": [
+    -1793.98206,
+    35.0,
+    -589.89386
+   ]
+  },
+  {
+   "item": 106102,
+   "name": "snd: desert wind-gusts, with lp3",
+   "pos": [
+    -1884.76062,
+    38.0,
+    -541.66064
+   ]
+  },
+  {
+   "item": 106102,
+   "name": "snd: desert wind-gusts, with lp3",
+   "pos": [
+    -1852.05042,
+    37.52176,
+    -459.88339
+   ]
+  },
+  {
+   "item": 106102,
+   "name": "snd: desert wind-gusts, with lp3",
+   "pos": [
+    -1925.44348,
+    35.0,
+    -851.71765
+   ]
+  },
+  {
+   "item": 106103,
+   "name": "snd: Bird A (1-shots)",
+   "pos": [
+    -1836.4176,
+    37.0,
+    -573.5589
+   ]
+  },
+  {
+   "item": 106103,
+   "name": "snd: Bird A (1-shots)",
+   "pos": [
+    -1840.15869,
+    37.0,
+    -768.11755
+   ]
+  },
+  {
+   "item": 106104,
+   "name": "snd: Bird B (1-shots)",
+   "pos": [
+    -1863.67542,
+    37.0,
+    -711.93225
+   ]
+  },
+  {
+   "item": 106107,
+   "name": "snd: Mtl Roof-Gusts1 (use on Shanty objects)",
+   "pos": [
+    -1900.10376,
+    37.0,
+    -746.97632
+   ]
+  },
+  {
+   "item": 106107,
+   "name": "snd: Mtl Roof-Gusts1 (use on Shanty objects)",
+   "pos": [
+    -1821.28735,
+    37.0,
+    -625.56262
+   ]
+  },
+  {
+   "item": 106114,
+   "name": "snd: Eagle (1-shots. Use sparingly!)",
+   "pos": [
+    -1886.84412,
+    75.0,
+    -872.61121
+   ]
+  },
+  {
+   "item": 106114,
+   "name": "snd: Eagle (1-shots. Use sparingly!)",
+   "pos": [
+    -1906.7146,
+    65.0,
+    -503.12811
+   ]
+  },
+  {
+   "item": 106119,
+   "name": "snd: desert lp3",
+   "pos": [
+    -1706.75659,
+    65.0,
+    -976.51788
+   ]
+  },
+  {
+   "item": 106119,
+   "name": "snd: desert lp3",
+   "pos": [
+    -1741.82751,
+    65.5,
+    -1065.03015
+   ]
+  },
+  {
+   "item": 106119,
+   "name": "snd: desert lp3",
+   "pos": [
+    -1975.63367,
+    65.0,
+    -958.1474
+   ]
+  },
+  {
+   "item": 106119,
+   "name": "snd: desert lp3",
+   "pos": [
+    -2247.92151,
+    52.76059,
+    -1137.20251
+   ]
+  },
+  {
+   "item": 106119,
+   "name": "snd: desert lp3",
+   "pos": [
+    -1785.8114,
+    51.65637,
+    -402.04364
+   ]
+  },
+  {
+   "item": 106119,
+   "name": "snd: desert lp3",
+   "pos": [
+    -1680.02661,
+    52.41859,
+    -1108.92322
+   ]
+  },
+  {
+   "item": 106119,
+   "name": "snd: desert lp3",
+   "pos": [
+    -2317.9928,
+    49.46797,
+    -393.67242
+   ]
+  },
+  {
+   "item": 106119,
+   "name": "snd: desert lp3",
+   "pos": [
+    -2147.64832,
+    66.25836,
+    -351.92133
+   ]
+  },
+  {
+   "item": 106119,
+   "name": "snd: desert lp3",
+   "pos": [
+    -2095.87683,
+    65.0,
+    -751.06189
+   ]
+  },
+  {
+   "item": 106119,
+   "name": "snd: desert lp3",
+   "pos": [
+    -2075.8363,
+    65.0,
+    -916.39624
+   ]
+  },
+  {
+   "item": 106119,
+   "name": "snd: desert lp3",
+   "pos": [
+    -1700.07642,
+    35.0,
+    -564.01697
+   ]
+  },
+  {
+   "item": 106131,
+   "name": "snd: desert wind-gusts2, with lp4",
+   "pos": [
+    -1963.68933,
+    35.0,
+    -787.20251
+   ]
+  },
+  {
+   "item": 106131,
+   "name": "snd: desert wind-gusts2, with lp4",
+   "pos": [
+    -1881.16504,
+    35.0,
+    -849.89801
+   ]
+  },
+  {
+   "item": 106131,
+   "name": "snd: desert wind-gusts2, with lp4",
+   "pos": [
+    -1798.67358,
+    35.0,
+    -786.20978
+   ]
+  },
+  {
+   "item": 106131,
+   "name": "snd: desert wind-gusts2, with lp4",
+   "pos": [
+    -1950.91882,
+    35.0,
+    -501.73566
+   ]
+  },
+  {
+   "item": 106131,
+   "name": "snd: desert wind-gusts2, with lp4",
+   "pos": [
+    -1705.87073,
+    35.0,
+    -751.63617
+   ]
+  },
+  {
+   "item": 106131,
+   "name": "snd: desert wind-gusts2, with lp4",
+   "pos": [
+    -1779.26392,
+    35.0,
+    -675.81683
+   ]
+  },
+  {
+   "item": 106131,
+   "name": "snd: desert wind-gusts2, with lp4",
+   "pos": [
+    -1723.46082,
+    35.0,
+    -672.78406
+   ]
+  },
+  {
+   "item": 106131,
+   "name": "snd: desert wind-gusts2, with lp4",
+   "pos": [
+    -1865.19434,
+    35.0,
+    -556.90417
+   ]
+  },
+  {
+   "item": 106131,
+   "name": "snd: desert wind-gusts2, with lp4",
+   "pos": [
+    -1916.62927,
+    35.0,
+    -578.69531
+   ]
+  },
+  {
+   "item": 106136,
+   "name": "snd: City Wind lp1, and One-shots (ENV_GUSTS1)",
+   "pos": [
+    -1874.72168,
+    35.0,
+    -641.90015
+   ]
+  },
+  {
+   "item": 106136,
+   "name": "snd: City Wind lp1, and One-shots (ENV_GUSTS1)",
+   "pos": [
+    -1887.4314,
+    35.0,
+    -722.62366
+   ]
+  },
+  {
+   "item": 106136,
+   "name": "snd: City Wind lp1, and One-shots (ENV_GUSTS1)",
+   "pos": [
+    -1815.63892,
+    35.0,
+    -665.25842
+   ]
+  },
+  {
+   "item": 106136,
+   "name": "snd: City Wind lp1, and One-shots (ENV_GUSTS1)",
+   "pos": [
+    -1826.6311,
+    35.0,
+    -825.33148
+   ]
+  },
+  {
+   "item": 106137,
+   "name": "snd: City Wind lp2, and One-shots (ENV_GUSTS2)",
+   "pos": [
+    -1890.703,
+    37.0,
+    -789.51184
+   ]
+  },
+  {
+   "item": 106137,
+   "name": "snd: City Wind lp2, and One-shots (ENV_GUSTS2)",
+   "pos": [
+    -1869.9126,
+    35.0,
+    -593.466
+   ]
+  },
+  {
+   "item": 106137,
+   "name": "snd: City Wind lp2, and One-shots (ENV_GUSTS2)",
+   "pos": [
+    -1868.95569,
+    35.0,
+    -741.49829
+   ]
+  },
+  {
+   "item": 106173,
+   "name": "snd: Fly buzzes, BZZZZZZZZZ! (place no less than 200m apart)",
+   "pos": [
+    -1851.15784,
+    35.0,
+    -574.82495
+   ]
+  },
+  {
+   "item": 106173,
+   "name": "snd: Fly buzzes, BZZZZZZZZZ! (place no less than 200m apart)",
+   "pos": [
+    -1844.5564,
+    35.0,
+    -616.15216
+   ]
+  },
+  {
+   "item": 106173,
+   "name": "snd: Fly buzzes, BZZZZZZZZZ! (place no less than 200m apart)",
+   "pos": [
+    -1861.01489,
+    35.0,
+    -615.15741
+   ]
+  },
+  {
+   "item": 106173,
+   "name": "snd: Fly buzzes, BZZZZZZZZZ! (place no less than 200m apart)",
+   "pos": [
+    -1860.62671,
+    35.0,
+    -636.72931
+   ]
+  },
+  {
+   "item": 106173,
+   "name": "snd: Fly buzzes, BZZZZZZZZZ! (place no less than 200m apart)",
+   "pos": [
+    -1946.7334,
+    35.0,
+    -655.17725
+   ]
+  },
+  {
+   "item": 106173,
+   "name": "snd: Fly buzzes, BZZZZZZZZZ! (place no less than 200m apart)",
+   "pos": [
+    -1807.84827,
+    35.0,
+    -586.84564
+   ]
+  },
+  {
+   "item": 106173,
+   "name": "snd: Fly buzzes, BZZZZZZZZZ! (place no less than 200m apart)",
+   "pos": [
+    -1889.08496,
+    35.0,
+    -611.60736
+   ]
+  },
+  {
+   "item": 106173,
+   "name": "snd: Fly buzzes, BZZZZZZZZZ! (place no less than 200m apart)",
+   "pos": [
+    -1868.63843,
+    35.0,
+    -670.36694
+   ]
+  },
+  {
+   "item": 106173,
+   "name": "snd: Fly buzzes, BZZZZZZZZZ! (place no less than 200m apart)",
+   "pos": [
+    -1853.89453,
+    35.0,
+    -806.30573
+   ]
+  },
+  {
+   "item": 106174,
+   "name": "snd: desert lp4 (NEW 2.19.03)",
+   "pos": [
+    -1922.40015,
+    65.0,
+    -772.71564
+   ]
+  },
+  {
+   "item": 106174,
+   "name": "snd: desert lp4 (NEW 2.19.03)",
+   "pos": [
+    -2092.53674,
+    65.2345,
+    -1118.47156
+   ]
+  },
+  {
+   "item": 106174,
+   "name": "snd: desert lp4 (NEW 2.19.03)",
+   "pos": [
+    -2205.44617,
+    49.91679,
+    -1094.72705
+   ]
+  },
+  {
+   "item": 106174,
+   "name": "snd: desert lp4 (NEW 2.19.03)",
+   "pos": [
+    -2159.57263,
+    50.38713,
+    -1132.10535
+   ]
+  },
+  {
+   "item": 106174,
+   "name": "snd: desert lp4 (NEW 2.19.03)",
+   "pos": [
+    -1810.29932,
+    65.0,
+    -1014.92889
+   ]
+  },
+  {
+   "item": 106174,
+   "name": "snd: desert lp4 (NEW 2.19.03)",
+   "pos": [
+    -2024.06494,
+    65.0,
+    -841.24426
+   ]
+  },
+  {
+   "item": 106174,
+   "name": "snd: desert lp4 (NEW 2.19.03)",
+   "pos": [
+    -2132.6178,
+    66.5,
+    -470.49445
+   ]
+  },
+  {
+   "item": 106174,
+   "name": "snd: desert lp4 (NEW 2.19.03)",
+   "pos": [
+    -1860.40063,
+    66.5,
+    -1091.75085
+   ]
+  },
+  {
+   "item": 106174,
+   "name": "snd: desert lp4 (NEW 2.19.03)",
+   "pos": [
+    -2124.2677,
+    65.0,
+    -846.25439
+   ]
+  },
+  {
+   "item": 106175,
+   "name": "snd: desert lp1-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -1877.75513,
+    51.03954,
+    -393.14587
+   ]
+  },
+  {
+   "item": 106175,
+   "name": "snd: desert lp1-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -1771.88831,
+    65.0,
+    -928.08655
+   ]
+  },
+  {
+   "item": 106175,
+   "name": "snd: desert lp1-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -1770.98169,
+    50.98157,
+    -1134.62793
+   ]
+  },
+  {
+   "item": 106175,
+   "name": "snd: desert lp1-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -2060.80603,
+    65.0,
+    -407.03278
+   ]
+  },
+  {
+   "item": 106175,
+   "name": "snd: desert lp1-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -2296.2821,
+    50.23409,
+    -245.03848
+   ]
+  },
+  {
+   "item": 106175,
+   "name": "snd: desert lp1-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -1893.80151,
+    65.0,
+    -989.87823
+   ]
+  },
+  {
+   "item": 106175,
+   "name": "snd: desert lp1-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -2147.64832,
+    65.0,
+    -958.1474
+   ]
+  },
+  {
+   "item": 106175,
+   "name": "snd: desert lp1-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -2017.38477,
+    65.0,
+    -564.01697
+   ]
+  },
+  {
+   "item": 106175,
+   "name": "snd: desert lp1-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -1751.84778,
+    35.0,
+    -498.88519
+   ]
+  },
+  {
+   "item": 106176,
+   "name": "snd: desert lp2-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -1830.30029,
+    52.96902,
+    -405.00958
+   ]
+  },
+  {
+   "item": 106176,
+   "name": "snd: desert lp2-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -1915.16052,
+    75.0,
+    -695.33905
+   ]
+  },
+  {
+   "item": 106176,
+   "name": "snd: desert lp2-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -2266.22131,
+    47.58972,
+    -313.51031
+   ]
+  },
+  {
+   "item": 106176,
+   "name": "snd: desert lp2-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -1715.10681,
+    65.0,
+    -852.93457
+   ]
+  },
+  {
+   "item": 106176,
+   "name": "snd: desert lp2-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -1970.62354,
+    66.5,
+    -402.02264
+   ]
+  },
+  {
+   "item": 106176,
+   "name": "snd: desert lp2-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -1727.48145,
+    52.2682,
+    -1136.60522
+   ]
+  },
+  {
+   "item": 106176,
+   "name": "snd: desert lp2-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -2069.15613,
+    65.0,
+    -1036.63953
+   ]
+  },
+  {
+   "item": 106176,
+   "name": "snd: desert lp2-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -2057.46594,
+    65.0,
+    -655.86938
+   ]
+  },
+  {
+   "item": 106176,
+   "name": "snd: desert lp2-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -1955.59314,
+    66.44621,
+    -1075.05042
+   ]
+  },
+  {
+   "item": 106176,
+   "name": "snd: desert lp2-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -1822.52344,
+    65.0,
+    -795.9599
+   ]
+  },
+  {
+   "item": 106176,
+   "name": "snd: desert lp2-lighter, wistle-y wind (NEW 2.19.03)",
+   "pos": [
+    -1721.78699,
+    36.06798,
+    -435.42352
+   ]
+  }
+ ]
+}
